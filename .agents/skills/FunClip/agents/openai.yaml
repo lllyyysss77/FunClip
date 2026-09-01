@@ -1,0 +1,6 @@
+interface:
+  display_name: "FunClip"
+  short_description: "Repo-specific patterns and workflows for FunClip"
+  default_prompt: "Use the FunClip repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
